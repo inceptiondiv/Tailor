@@ -95,9 +95,9 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
                                 <h3><span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
-                                </span>
+                               <!-- <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>-->
+                                <img class="img-responsive" src="img/mouse2.jpg" width="192" height="192" alt=""/> </span>
                                 </h3>
                               <h3> <strong>Order</strong></h3>
                                 <h4>Place your orders online or give us a call</h4>
@@ -106,8 +106,9 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
                                 <h3><span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                                <!--<i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-compass fa-stack-1x text-primary"></i>-->
+                                <img class="img-responsive" src="img/Sccoter.jpg" width="192" height="192" alt=""/>
                                 </span>
                                 </h3>
                                 <h3> <strong>PickUp</strong></h3>
