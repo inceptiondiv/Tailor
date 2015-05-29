@@ -97,7 +97,7 @@
                                 <h3><span class="fa-stack fa-4x">
                                <!-- <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-cloud fa-stack-1x text-primary"></i>-->
-                                <img class="img-responsive" src="img/mouse2.jpg" width="192" height="192" alt=""/> </span>
+                                <a href = "OrderPage.php"><img class="img-responsive" src="img/mouse2.jpg" width="192" height="192" alt=""/> </a></span>
                                 </h3>
                               <h3> <strong>Order</strong></h3>
                                 <h4>Place your orders online or give us a call</h4>
